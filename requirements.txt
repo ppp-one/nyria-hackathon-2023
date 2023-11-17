@@ -41,9 +41,9 @@ six
 sniffio==1.3.0
 starlette==0.27.0
 sympy
-torch==2.1.1
-torchaudio==2.1.1
-torchvision==0.16.1
+https://download.pytorch.org/whl/cu118/torch-2.1.1%2Bcu118-cp311-cp311-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchaudio-2.1.1%2Bcpu-cp311-cp311-linux_x86_64.whl
+# torchvision==0.16.1
 tornado
 typing_extensions==4.8.0
 urllib3
